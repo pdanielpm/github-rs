@@ -1,4 +1,7 @@
 # Nombre del Programa
+Descripción general del programa.
+
+Echale mas ganitas a tus archivos. 
 
 ## Uso
 
